@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511621605806",
+    "project_id": "econo-med",
+    "storage_bucket": "econo-med.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511621605806:android:d0e1358d5c96b31402403f",
+        "android_client_info": {
+          "package_name": "com.asteriuz.economed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuighL_kyjdLTafZArPtyPN4AXXteaP7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
